@@ -6,8 +6,8 @@ Welcome to my repository for virtual work experience and practical simulations. 
 ---
 
 ## 📑 Table of Contents
-
-* [Project 2: SOC Analyst Simulation (Drax)](#-project-2-soc-analyst-simulation-drax)
+* [Project 1: Digital Skills: Cyber Security](#-project-1-Amazon-Digital-Skills)
+* [Project 2: Prevent a Data Breach: Cyber Security Sprint with Drax](#-project-2-soc-analyst-simulation-drax)
 
 
 
