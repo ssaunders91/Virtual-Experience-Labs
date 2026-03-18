@@ -6,9 +6,9 @@ Welcome to my repository for virtual work experience and practical simulations. 
 ---
 
 ## 📑 Completed Projects
-1. **[Project 1: Amazon Digital Skills - Cybersecurity](./Project-1-Amazon-Digital-Skills/README.md)**
+ **[Project 1: Amazon Digital Skills - Cybersecurity](./Project-1-Amazon-Digital-Skills/README.md)**
    
-2. **[Project 2: Prevent a Data Breach: Cyber Security Sprint with Drax](./Project-2-Drax-Simulation/README.md)**
+ **[Project 2: Prevent a Data Breach: Cyber Security Sprint with Drax](./Project-2-Drax-Simulation/README.md)**
 
 ---
 *(I will be updating this page as I complete further simulations and labs.)*
