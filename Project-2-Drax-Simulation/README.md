@@ -1,4 +1,4 @@
-## Project 2: SOC Analyst Simulation (Drax)
+# 🛡️ Project 2: SOC Analyst Simulation (Drax)
 
 ### 🎯 Objective
 The goal of this simulation was to investigate network logs flagged for anomalous activity and determine if they represented legitimate business traffic or a **Command and Control (C2) beaconing** attempt.
