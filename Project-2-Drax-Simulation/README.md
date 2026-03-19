@@ -1,4 +1,4 @@
-### Project 2: SOC Analyst Simulation (Drax)
+## Project 2: SOC Analyst Simulation (Drax)
 
 ### 🎯 Objective
 The goal of this simulation was to investigate network logs flagged for anomalous activity and determine if they represented legitimate business traffic or a **Command and Control (C2) beaconing** attempt.
@@ -23,4 +23,6 @@ I employed a multi-phased approach to ensure the accuracy of the findings:
 ### 💡 Key Learning
 This project highlighted the importance of a **"Second Pass" investigation**. By not relying solely on automated alerts and performing manual IP reputation checks, I was able to accurately filter out false positives and pinpoint the genuine security threat.
 
+[⬅️ Back to Virtual Work Experience Hub](https://github.com/ssaunders91/Virtual-Experience-Labs/blob/main/README.md)
 
+[⬅️ Back to Profile Hub](https://github.com/ssaunders91)
